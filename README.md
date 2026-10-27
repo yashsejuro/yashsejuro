@@ -2,9 +2,9 @@
 
 I build full-stack products where the interesting part is the data model — a graph database that picks your code reviewers, an anomaly-detection backend for public-works audits, a routing engine that knows where the city floods.
 
-- 🔭 Currently building **Keystone**, a graph-based pull-request reviewer recommender on FalkorDB
+- 🔭 Proudest build so far: **Keystone**, a graph-based pull-request reviewer recommender on FalkorDB
 - 🧪 I care about the unglamorous half: schema mapping, data-quality flags, auditable scoring rules, tests that pin down behaviour
-- 🌱 Daily DSA practice in Python, logged automatically in **[neetcode-submissions](https://github.com/yashsejuro/neetcode-submissions)** — 26 problems and 146 submissions so far
+- 🌱 Daily DSA practice in Python, every submission logged in **[neetcode-submissions](https://github.com/yashsejuro/neetcode-submissions)**
 - 📫 Reach me at **yashsejuro.ys@gmail.com**
 
 ## Selected work
@@ -18,15 +18,11 @@ I build full-stack products where the interesting part is the data model — a g
 | **[Hygenious](https://github.com/yashsejuro/Hygenious)** | Turns a phone photo of a kitchen, restroom or dining area into an objective hygiene score with visual evidence | Next.js · Node · Firebase | [Live](https://hygenious-henna.vercel.app) |
 | **[AlgoTales](https://github.com/yashsejuro/AlgoTales)** | Data structures and algorithms told as animated stories, with step timelines and line-synced code | React 19 · Vite · Tailwind CSS · Motion | [Live](https://algo-tales.vercel.app) |
 
-## Daily practice
+## How I practise
 
-I keep a running NeetCode log in **[neetcode-submissions](https://github.com/yashsejuro/neetcode-submissions)**. Every submission syncs automatically, so the history is real rather than curated after the fact.
+Every submission syncs to **[neetcode-submissions](https://github.com/yashsejuro/neetcode-submissions)**, repeats included. That is deliberate. I go back to problems I have already solved and write them again from scratch, because the second pass is what turns a solution I remembered into one I can actually reach for in an interview. The repo is a revision log, not a trophy case.
 
-- **26 problems** worked through across arrays & hashing, two pointers, sliding window, binary search and stacks
-- **146 submissions**, all Python — multiple attempts per problem, which is the honest part of learning an algorithm
-- Committed on **43 days** since August 2026, currently on a **9-day streak**
-
-The point is not the count. Trapping rain water took eighteen attempts and three-integer-sum took ten, and the repo keeps every one of them instead of just the clean final answer.
+The log runs across arrays & hashing, two pointers, sliding window, binary search and stacks, all in Python, and it keeps growing.
 
 ## Tools I reach for
 
@@ -36,7 +32,7 @@ The point is not the count. Trapping rain water took eighteen attempts and three
 **Frontend** — React, Next.js, Vite, Tailwind CSS, TanStack Router
 **Cloud** — AWS (Lambda, Bedrock, DynamoDB), Vercel, Netlify
 **Practices** — pytest, vitest, GitHub Actions, schema-first API design
-**Problem solving** — arrays & hashing, two pointers, sliding window, binary search, stacks (working through the NeetCode 150)
+**Problem solving** — arrays & hashing, two pointers, sliding window, binary search, stacks
 
 ## Beyond the code
 
